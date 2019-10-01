@@ -1,0 +1,24 @@
+.xzoom-thumbs a {
+    text-decoration: none;
+}
+/* Preview */
+.xzoom-preview {
+    border: 1px solid #888;
+    background: #2f4f4f;
+    box-shadow: -0px -0px 10px rgba(0, 0, 0, 0.50);
+}
+/* Lens */
+.xzoom-lens {
+    border: 1px solid #555;
+    box-shadow: -0px -0px 10px rgba(0, 0, 0, 0.50);
+    cursor: crosshair;
+}
+/* Loading */
+.xzoom-loading {
+    background-position: center center;
+    background-repeat: no-repeat;
+    border-radius: 100%;
+    opacity: .7;
+    width: 48px;
+    height: 48px;
+}

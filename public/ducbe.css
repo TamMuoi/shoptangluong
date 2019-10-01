@@ -1,0 +1,14 @@
+.ducbe{
+    height: 120px;
+    overflow: hidden;
+    width: 250px;
+}
+.ducbe p{
+    text-overflow: ellipsis;
+    margin-bottom:0px;
+    overflow: hidden;
+    -webkit-line-clamp: 10;
+    display: -webkit-box;
+    -webkit-box-orient: vertical;
+    line-height: 30px;
+}

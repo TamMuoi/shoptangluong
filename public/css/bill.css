@@ -1,0 +1,9 @@
+.billitem{
+
+    padding: 15px 15px 15px 25px;
+    //border-radius: 15px;
+    background: white;
+}
+.total{
+    float: right;
+}
